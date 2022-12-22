@@ -10,5 +10,7 @@ which contains a collection of emails with labels indicating whether they are sp
 ## Dependencies
 
 python 3  
-scikit-learn
-pandas
+matplotlib  
+scikit-learn  
+pandas  
+seaborn
